@@ -1,0 +1,12 @@
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\Entidades.dll.config
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\Entidades.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\Entidades.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\EntityFramework.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\EntityFramework.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\obj\Debug\Entidades.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Entidades\obj\Debug\Entidades.pdb

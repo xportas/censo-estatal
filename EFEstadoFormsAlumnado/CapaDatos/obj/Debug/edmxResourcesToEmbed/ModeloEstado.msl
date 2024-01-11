@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EstadoModelStoreContainer" CdmEntityContainer="EstadoEntities">
+    <EntitySetMapping Name="Localidades">
+      <EntityTypeMapping TypeName="EstadoModel.Localidade">
+        <MappingFragment StoreEntitySet="Localidades">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdProv" ColumnName="IdProv" />
+          <ScalarProperty Name="NumHab" ColumnName="NumHab" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Provincias">
+      <EntityTypeMapping TypeName="EstadoModel.Provincia">
+        <MappingFragment StoreEntitySet="Provincias">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

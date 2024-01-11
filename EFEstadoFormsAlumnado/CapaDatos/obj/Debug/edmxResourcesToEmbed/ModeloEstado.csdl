@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EstadoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Localidade">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IdProv" Type="String" MaxLength="2" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="NumHab" Type="Int32" />
+    <NavigationProperty Name="Provincia" Relationship="Self.FK_Localidades_Provincias" FromRole="Localidades" ToRole="Provincias" />
+  </EntityType>
+  <EntityType Name="Provincia">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="2" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Localidades" Relationship="Self.FK_Localidades_Provincias" FromRole="Provincias" ToRole="Localidades" />
+  </EntityType>
+  <Association Name="FK_Localidades_Provincias">
+    <End Role="Provincias" Type="Self.Provincia" Multiplicity="1" />
+    <End Role="Localidades" Type="Self.Localidade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Provincias">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Localidades">
+        <PropertyRef Name="IdProv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EstadoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Localidades" EntityType="Self.Localidade" />
+    <EntitySet Name="Provincias" EntityType="Self.Provincia" />
+    <AssociationSet Name="FK_Localidades_Provincias" Association="Self.FK_Localidades_Provincias">
+      <End Role="Provincias" EntitySet="Provincias" />
+      <End Role="Localidades" EntitySet="Localidades" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

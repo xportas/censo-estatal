@@ -1,0 +1,114 @@
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\CapaDatos.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\Entidades.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.Form1.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFEstado\Formularios\bin\Debug\EntityFramework.SqlServer.xml
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Formularios.exe.config
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Formularios.exe
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Formularios.pdb
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\CapaDatos.dll
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Entidades.dll
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\EntityFramework.dll
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\EntityFramework.SqlServer.dll
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\CapaDatos.pdb
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\CapaDatos.dll.config
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Entidades.pdb
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\Entidades.dll.config
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\EntityFramework.xml
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\bin\Debug\EntityFramework.SqlServer.xml
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.Form1.resources
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.exe
+G:\Mi unidad\Modulos\2DamAccesoDatos\Ariketak\0501EFEstadoTeoria\Formularios\obj\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\CapaDatos.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Entidades.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\CapaDatos.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\CapaDatos.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Entidades.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\Entidades.dll.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmAbandonadas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmProvincia.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmAltaLocalidad.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmBorrarLocalidades.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EF Estado\Formularios\obj\Debug\Formularios.FrmLocalidades.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmAbandonadas.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmAltaLocalidad.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmBorrarLocalidades.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmLocalidades.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmProvincia.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\Formularios.exe
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\Formularios.pdb
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Trabajando\Acceso Datos\EFAlumnado\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Formularios.exe.config
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Formularios.exe
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Formularios.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\EntityFramework.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\EntityFramework.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmAbandonadas.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmAltaLocalidad.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmBorrarLocalidades.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmConsultas.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmProvincia.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.FrmMenu.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.exe
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\obj\Debug\Formularios.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\CapaDatos.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Entidades.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\CapaDatos.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\CapaDatos.dll.config
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Entidades.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\Formularios\bin\Debug\Entidades.dll.config

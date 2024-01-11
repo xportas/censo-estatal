@@ -1,0 +1,15 @@
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\CapaDatos.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\Entidades.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\EntityFramework.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\Entidades.pdb
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\Entidades.dll.config
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\EntityFramework.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\obj\Debug\CapaDatos.dll
+C:\workspace-ad\EFEstadoFormsAlumnado\CapaDatos\obj\Debug\CapaDatos.pdb
