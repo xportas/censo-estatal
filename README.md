@@ -34,8 +34,8 @@ The project is divided into three layers:
 
 ### Data Layer
 
-- **ProvinciasLocalidadesData**: Contains data access logic and defines the database model.
-  - `ProvinciasLocalidadesDbContext.cs`: Entity Framework database context.
+- **GestorDatos**: Contains data access logic and defines the database model.
+  - `bdEstado.cs`: Entity Framework database context.
 
 ### Presentation Layer
 
